@@ -1,0 +1,115 @@
+{
+  "synthetic": true,
+  "description": "青少年阅读时间的机会缺口与试行跟踪的合成输入资料；不含未来分析结论。",
+  "tables": {
+    "schools": {
+      "description": "参与学校；设备量是服务条件，不是能力指标。",
+      "fields": {
+        "id": "学校编号",
+        "area": "地区层",
+        "devices": "同时可用终端台数"
+      },
+      "references": {}
+    },
+    "people": {
+      "description": "合成人员名册；同家庭标识用于识别非独立观测，不含姓名或联系方式。",
+      "fields": {
+        "id": "人员编号",
+        "school_id": "名册学校",
+        "household": "合成家庭编号；两人可同属一个家庭",
+        "grade": "学年年级",
+        "access_need": "必要访问形式；audio为听读、text为普通文本",
+        "sample_weight": "抽样基础权重，非分析后的校正权重"
+      },
+      "references": {
+        "school_id": "schools"
+      }
+    },
+    "sample_frame": {
+      "description": "分层抽样框与邀请；有名册未交日记也保留。",
+      "fields": {
+        "id": "抽样框行",
+        "person_id": "学生",
+        "invited": "已邀请",
+        "boarder": "是否住宿",
+        "stratum": "抽样层"
+      },
+      "references": {
+        "person_id": "people"
+      }
+    },
+    "activities": {
+      "description": "活动字典的兼容声明。",
+      "fields": {
+        "id": "活动代码",
+        "label": "含义",
+        "can_secondary": "可同时出现的次要活动代码；不规定阅读量如何折算"
+      },
+      "references": {}
+    },
+    "diary": {
+      "description": "连续四周原始日记；允许冲突，未预先解释。",
+      "fields": {
+        "id": "日记行",
+        "person_id": "学生",
+        "start": "带时区起时，含",
+        "end": "带时区止时，不含",
+        "activity_id": "主活动",
+        "secondary": "次活动或null",
+        "received_on": "收到日"
+      },
+      "references": {
+        "person_id": "people",
+        "activity_id": "activities"
+      }
+    },
+    "clarifications": {
+      "description": "学生补充说明及学校审核事实。",
+      "fields": {
+        "id": "说明",
+        "diary_id": "争议日记",
+        "submitted_on": "提交日",
+        "decision": "approved通过/pending待审/rejected拒绝",
+        "decided_on": "审核日",
+        "explanation": "补充解释"
+      },
+      "references": {
+        "diary_id": "diary"
+      }
+    },
+    "calendar": {
+      "description": "学校考试与开放条件。",
+      "fields": {
+        "id": "日历项",
+        "school_id": "学校",
+        "from_on": "起日",
+        "to_on": "止日，含当天",
+        "kind": "exam考试周",
+        "open_start": "午间可开放时刻",
+        "open_end": "结束时刻"
+      },
+      "references": {
+        "school_id": "schools"
+      }
+    },
+    "pilots": {
+      "description": "方案声明与已经执行的范围。",
+      "fields": {
+        "id": "方案",
+        "school_id": "学校",
+        "from_on": "起日",
+        "to_on": "止日",
+        "time_start": "拟释放或调整时段起时",
+        "time_end": "止时",
+        "displaces": "被挤占活动",
+        "status": "executed已执行/confirmed已确认未执行"
+      },
+      "references": {
+        "school_id": "schools"
+      }
+    }
+  },
+  "notes": [
+    "时间区间采用左闭右开；日记中的school仅表示被填报为在校活动，不自动等于课表规定正确。采样权重仅为基础权重。"
+  ]
+}
