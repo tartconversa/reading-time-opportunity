@@ -1,0 +1,1232 @@
+{
+  "materials_digest": "a326b6cb07c14f33d0f251f6d0f92f8344b1f965ecb6c059900b29f99b2a6307",
+  "min_block_minutes": 20,
+  "person_profiles": [
+    {
+      "person_id": "P001",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.071
+    },
+    {
+      "person_id": "P002",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P003",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 4,
+      "mean_free_block_count": 0.857,
+      "mean_usable_free_minutes": 102.857,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P004",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P005",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P006",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P007",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P008",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P009",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P010",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P011",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P012",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P013",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P014",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 49.286,
+      "mean_reading_events_per_day": 0.821
+    },
+    {
+      "person_id": "P015",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P016",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P018",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P019",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P020",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P021",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P022",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P023",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P024",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P025",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 4,
+      "mean_free_block_count": 0.857,
+      "mean_usable_free_minutes": 102.857,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P026",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P027",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P028",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P029",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P030",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P031",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P032",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P033",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P035",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P036",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P037",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P038",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P039",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P040",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P041",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P042",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P043",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P044",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P045",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P046",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P047",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P048",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P049",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P050",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P052",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P053",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P054",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P055",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P056",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P057",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P058",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P059",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P060",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P061",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P062",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P063",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P064",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 51.429,
+      "mean_reading_events_per_day": 0.857
+    },
+    {
+      "person_id": "P065",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P066",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P067",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 4,
+      "mean_free_block_count": 0.857,
+      "mean_usable_free_minutes": 102.857,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P069",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P070",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P071",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P072",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P073",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P074",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P075",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P076",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P077",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P078",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P079",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P080",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P081",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P082",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P083",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P084",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P086",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P087",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P088",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P089",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 4,
+      "mean_free_block_count": 0.857,
+      "mean_usable_free_minutes": 102.857,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P090",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P091",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P092",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P093",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P094",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P095",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 5,
+      "mean_free_block_count": 0.821,
+      "mean_usable_free_minutes": 98.571,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P096",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P097",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P098",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P099",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P100",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P101",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P103",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P104",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 6,
+      "mean_free_block_count": 0.786,
+      "mean_usable_free_minutes": 94.286,
+      "mean_longest_reading_event_minutes": 53.571,
+      "mean_reading_events_per_day": 0.893
+    },
+    {
+      "person_id": "P105",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P106",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P107",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P108",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P109",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P110",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P111",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P112",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P113",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P114",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P115",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P116",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P117",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P118",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 5,
+      "mean_free_block_count": 0.821,
+      "mean_usable_free_minutes": 98.571,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P120",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P121",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P122",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P123",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P124",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 4,
+      "mean_free_block_count": 0.857,
+      "mean_usable_free_minutes": 102.857,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P125",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P126",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P127",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P128",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P129",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 1,
+      "mean_free_block_count": 0.964,
+      "mean_usable_free_minutes": 115.714,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P130",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P131",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P132",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P133",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P134",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P135",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 55.714,
+      "mean_reading_events_per_day": 0.929
+    },
+    {
+      "person_id": "P137",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P138",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 2,
+      "mean_free_block_count": 0.929,
+      "mean_usable_free_minutes": 111.429,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P139",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P140",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 3,
+      "mean_free_block_count": 0.893,
+      "mean_usable_free_minutes": 107.143,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P141",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 57.857,
+      "mean_reading_events_per_day": 0.964
+    },
+    {
+      "person_id": "P142",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 5,
+      "mean_free_block_count": 0.821,
+      "mean_usable_free_minutes": 98.571,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    },
+    {
+      "person_id": "P143",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 51.429,
+      "mean_reading_events_per_day": 0.857
+    },
+    {
+      "person_id": "P144",
+      "days_analyzed": 28,
+      "days_without_qualifying_free_block": 0,
+      "mean_free_block_count": 1.0,
+      "mean_usable_free_minutes": 120.0,
+      "mean_longest_reading_event_minutes": 60.0,
+      "mean_reading_events_per_day": 1.0
+    }
+  ],
+  "household_shared_time": null,
+  "squeeze_profile": null
+}

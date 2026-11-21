@@ -1,0 +1,830 @@
+{
+  "materials_digest": "a326b6cb07c14f33d0f251f6d0f92f8344b1f965ecb6c059900b29f99b2a6307",
+  "step1_population_gap": {
+    "scope": {
+      "estimable_persons": 136,
+      "frame_persons": 144,
+      "representability": {
+        "unsupported_strata": [],
+        "thin_strata": [],
+        "unsupported_boarder_groups": [],
+        "note": "unsupported_strata 中的层没有任何有效回收，该层不进入群体估计，也不以零值或大权重替代"
+      },
+      "concentration": {
+        "max_weight": 3.4,
+        "min_weight": 1.2,
+        "max_to_min_ratio": 2.833333,
+        "effective_sample_size": 125.556,
+        "design_effect": 1.083182,
+        "extreme_flag": false
+      },
+      "trimming": {
+        "applied": false,
+        "cap_ratio": 10.0,
+        "records": []
+      },
+      "strata": {
+        "C1-4": {
+          "frame_persons": 12,
+          "valid_respondents": 11,
+          "base_weight_total": 24.6,
+          "respondent_base_weight_total": 23.1,
+          "nonresponse_adjustment_factor": 1.064935,
+          "response_rate_persons": 0.916667
+        },
+        "C1-6": {
+          "frame_persons": 12,
+          "valid_respondents": 12,
+          "base_weight_total": 25.2,
+          "respondent_base_weight_total": 25.2,
+          "nonresponse_adjustment_factor": 1.0,
+          "response_rate_persons": 1.0
+        },
+        "C2-3": {
+          "frame_persons": 12,
+          "valid_respondents": 11,
+          "base_weight_total": 24.6,
+          "respondent_base_weight_total": 21.9,
+          "nonresponse_adjustment_factor": 1.123288,
+          "response_rate_persons": 0.916667
+        },
+        "C2-5": {
+          "frame_persons": 12,
+          "valid_respondents": 12,
+          "base_weight_total": 24.0,
+          "respondent_base_weight_total": 24.0,
+          "nonresponse_adjustment_factor": 1.0,
+          "response_rate_persons": 1.0
+        },
+        "C3-4": {
+          "frame_persons": 12,
+          "valid_respondents": 12,
+          "base_weight_total": 24.0,
+          "respondent_base_weight_total": 24.0,
+          "nonresponse_adjustment_factor": 1.0,
+          "response_rate_persons": 1.0
+        },
+        "C3-6": {
+          "frame_persons": 12,
+          "valid_respondents": 11,
+          "base_weight_total": 25.5,
+          "respondent_base_weight_total": 23.7,
+          "nonresponse_adjustment_factor": 1.075949,
+          "response_rate_persons": 0.916667
+        },
+        "C4-3": {
+          "frame_persons": 12,
+          "valid_respondents": 11,
+          "base_weight_total": 24.9,
+          "respondent_base_weight_total": 22.8,
+          "nonresponse_adjustment_factor": 1.092105,
+          "response_rate_persons": 0.916667
+        },
+        "C4-5": {
+          "frame_persons": 12,
+          "valid_respondents": 11,
+          "base_weight_total": 25.5,
+          "respondent_base_weight_total": 22.5,
+          "nonresponse_adjustment_factor": 1.133333,
+          "response_rate_persons": 0.916667
+        },
+        "C5-4": {
+          "frame_persons": 12,
+          "valid_respondents": 11,
+          "base_weight_total": 26.4,
+          "respondent_base_weight_total": 24.3,
+          "nonresponse_adjustment_factor": 1.08642,
+          "response_rate_persons": 0.916667
+        },
+        "C5-6": {
+          "frame_persons": 12,
+          "valid_respondents": 11,
+          "base_weight_total": 24.9,
+          "respondent_base_weight_total": 23.7,
+          "nonresponse_adjustment_factor": 1.050633,
+          "response_rate_persons": 0.916667
+        },
+        "C6-3": {
+          "frame_persons": 12,
+          "valid_respondents": 12,
+          "base_weight_total": 26.4,
+          "respondent_base_weight_total": 26.4,
+          "nonresponse_adjustment_factor": 1.0,
+          "response_rate_persons": 1.0
+        },
+        "C6-5": {
+          "frame_persons": 12,
+          "valid_respondents": 11,
+          "base_weight_total": 25.8,
+          "respondent_base_weight_total": 23.4,
+          "nonresponse_adjustment_factor": 1.102564,
+          "response_rate_persons": 0.916667
+        }
+      },
+      "nonresponse": [
+        {
+          "person_id": "P085",
+          "stratum": "C1-4",
+          "boarder": false,
+          "reason": "no_diary"
+        },
+        {
+          "person_id": "P068",
+          "stratum": "C2-3",
+          "boarder": false,
+          "reason": "no_diary"
+        },
+        {
+          "person_id": "P051",
+          "stratum": "C3-6",
+          "boarder": true,
+          "reason": "no_diary"
+        },
+        {
+          "person_id": "P136",
+          "stratum": "C4-3",
+          "boarder": false,
+          "reason": "no_diary"
+        },
+        {
+          "person_id": "P034",
+          "stratum": "C4-5",
+          "boarder": false,
+          "reason": "no_diary"
+        },
+        {
+          "person_id": "P017",
+          "stratum": "C5-4",
+          "boarder": false,
+          "reason": "no_diary"
+        },
+        {
+          "person_id": "P119",
+          "stratum": "C5-6",
+          "boarder": false,
+          "reason": "no_diary"
+        },
+        {
+          "person_id": "P102",
+          "stratum": "C6-5",
+          "boarder": true,
+          "reason": "no_diary"
+        }
+      ]
+    },
+    "overall": {
+      "estimable": true,
+      "n_persons": 136,
+      "weight_sum": 301.8,
+      "effective_sample_size": 125.556,
+      "focused_reading": {
+        "mean_daily_minutes": 57.679,
+        "median_daily_minutes": 57.857,
+        "p25": 55.714,
+        "p75": 60.0,
+        "se_mean": 0.204794,
+        "se_detail": {
+          "se": 0.204794,
+          "clusters": 72,
+          "note": "家庭聚类稳健标准误（线性化）"
+        }
+      },
+      "audio_secondary": {
+        "mean_daily_minutes": 15.0,
+        "credit_ratio_used": 0.0
+      },
+      "combined_reading_with_credit": {
+        "mean_daily_minutes": 57.679
+      },
+      "zero_reading_day_rate": 0.038878,
+      "bounds_due_to_unknown": {
+        "lower_mean_daily_minutes": 57.679,
+        "upper_if_all_unknown_is_reading": 125.09,
+        "upper_also_counting_disputed": 125.09,
+        "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+      },
+      "mean_unknown_minutes_daily": 67.411,
+      "mean_disputed_minutes_daily": 0.0
+    }
+  },
+  "step2_pilots": [
+    {
+      "pilot_id": "PIL1",
+      "applicability": {
+        "setting": "campus_noon",
+        "eligible_n": 24,
+        "warnings": [
+          "displaces_mismatch：声明被挤占活动 free 在窗口内实际占比仅 0.0，方案前提与日记不符",
+          "no_reading_observed：窗口内未观测到文本阅读，计划释放尚未转化为阅读机会",
+          "campus_noon_scope：午间校内方案不得直接套用于走读生晚间"
+        ]
+      },
+      "exposure": {
+        "pilot_id": "PIL1",
+        "exposed": true,
+        "reason": "executed",
+        "person_days": [
+          {
+            "person_id": "P001",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P007",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P013",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P019",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P025",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P031",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P037",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P043",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P049",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P055",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P061",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P067",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P073",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P079",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P091",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P097",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P103",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P109",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P115",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P121",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P127",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P133",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          },
+          {
+            "person_id": "P139",
+            "dates": [
+              "2026-05-11",
+              "2026-05-12",
+              "2026-05-13",
+              "2026-05-14",
+              "2026-05-15",
+              "2026-05-16",
+              "2026-05-17",
+              "2026-05-18",
+              "2026-05-19",
+              "2026-05-20",
+              "2026-05-21",
+              "2026-05-22",
+              "2026-05-23",
+              "2026-05-24"
+            ],
+            "n_days": 14
+          }
+        ],
+        "dates": [
+          "2026-05-11",
+          "2026-05-12",
+          "2026-05-13",
+          "2026-05-14",
+          "2026-05-15",
+          "2026-05-16",
+          "2026-05-17",
+          "2026-05-18",
+          "2026-05-19",
+          "2026-05-20",
+          "2026-05-21",
+          "2026-05-22",
+          "2026-05-23",
+          "2026-05-24"
+        ]
+      },
+      "observed_effect": {
+        "estimable": true,
+        "matched_days": {
+          "pre_days": [
+            "2026-05-04",
+            "2026-05-05",
+            "2026-05-06",
+            "2026-05-07",
+            "2026-05-08",
+            "2026-05-09",
+            "2026-05-10"
+          ],
+          "post_days": [
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-05-16",
+            "2026-05-17",
+            "2026-05-23",
+            "2026-05-24"
+          ],
+          "excluded_weekdays_absent_in_one_period": [],
+          "exam_excluded": true
+        },
+        "treatment": {
+          "n_persons": 23,
+          "pre_mean_focused_minutes": 59.136,
+          "post_mean_focused_minutes": 58.392,
+          "within_change": -0.744,
+          "pre_window_reading_minutes": 0.0,
+          "post_window_reading_minutes": 0.0,
+          "window_change": 0.0
+        },
+        "comparison": {
+          "n_persons": 113,
+          "pre_mean_focused_minutes": 57.444,
+          "post_mean_focused_minutes": 57.374,
+          "within_change": -0.07
+        },
+        "did": {
+          "minutes_per_day": -0.674,
+          "cluster_robust_se": 1.044082,
+          "attribution": "not_observed_in_window：窗口内无阅读，差异不能归因于释放时段"
+        },
+        "planned_release_minutes": 30.0,
+        "attribution_guard": "计划释放分钟仅为方案声明；只有窗口内实际阅读变化可计入观测证据，且 DiD 在平行趋势等假设成立时才可谨慎归因"
+      }
+    },
+    {
+      "pilot_id": "PIL2",
+      "applicability": {
+        "setting": "after_school",
+        "eligible_n": 24,
+        "warnings": [
+          "no_reading_observed：窗口内未观测到文本阅读，计划释放尚未转化为阅读机会"
+        ]
+      },
+      "exposure": {
+        "pilot_id": "PIL2",
+        "exposed": false,
+        "reason": "status=confirmed，无实际执行日期",
+        "person_days": [],
+        "dates": []
+      },
+      "observed_effect": {
+        "estimable": true,
+        "matched_days": {
+          "pre_days": [
+            "2026-05-04",
+            "2026-05-05",
+            "2026-05-06",
+            "2026-05-07",
+            "2026-05-08",
+            "2026-05-09",
+            "2026-05-10",
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-05-16",
+            "2026-05-17",
+            "2026-05-23",
+            "2026-05-24"
+          ],
+          "post_days": [
+            "2026-05-25",
+            "2026-05-26",
+            "2026-05-27",
+            "2026-05-28",
+            "2026-05-29",
+            "2026-05-30",
+            "2026-05-31"
+          ],
+          "excluded_weekdays_absent_in_one_period": [],
+          "exam_excluded": true
+        },
+        "treatment": {
+          "n_persons": 23,
+          "pre_mean_focused_minutes": 58.718,
+          "post_mean_focused_minutes": 58.301,
+          "within_change": -0.417,
+          "pre_window_reading_minutes": 0.0,
+          "post_window_reading_minutes": 0.0,
+          "window_change": 0.0
+        },
+        "comparison": {
+          "n_persons": 113,
+          "pre_mean_focused_minutes": 57.405,
+          "post_mean_focused_minutes": 57.797,
+          "within_change": 0.392
+        },
+        "did": {
+          "minutes_per_day": -0.809,
+          "cluster_robust_se": 1.1208,
+          "attribution": "not_attributable：方案未实际执行"
+        },
+        "planned_release_minutes": 30.0,
+        "attribution_guard": "计划释放分钟仅为方案声明；只有窗口内实际阅读变化可计入观测证据，且 DiD 在平行趋势等假设成立时才可谨慎归因"
+      }
+    }
+  ],
+  "step3_attribution_guard": "只有 executed 且窗口内有实际阅读的方案才可能贡献阅读机会证据；confirmed 未执行方案无效果可评；DiD 仍是观察性关联"
+}

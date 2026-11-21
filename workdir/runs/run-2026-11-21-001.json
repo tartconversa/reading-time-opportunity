@@ -1,0 +1,17 @@
+{
+  "run_id": "run-2026-11-21-001",
+  "command": "coverage",
+  "params": {
+    "materials": "/workspace/materials",
+    "workdir": "/workspace/workdir",
+    "json": false,
+    "min_valid_days": 7,
+    "min_coverage_ratio": 0.9,
+    "command": "coverage",
+    "person": null
+  },
+  "materials_digest": "a326b6cb07c14f33d0f251f6d0f92f8344b1f965ecb6c059900b29f99b2a6307",
+  "result_ref": "(inline)",
+  "notes": "",
+  "recorded_on": "2026-11-21"
+}

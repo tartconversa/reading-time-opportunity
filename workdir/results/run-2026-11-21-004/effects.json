@@ -1,0 +1,51 @@
+{
+  "estimable": true,
+  "matched_days": {
+    "pre_days": [
+      "2026-05-04",
+      "2026-05-05",
+      "2026-05-06",
+      "2026-05-07",
+      "2026-05-08",
+      "2026-05-09",
+      "2026-05-10"
+    ],
+    "post_days": [
+      "2026-05-11",
+      "2026-05-12",
+      "2026-05-13",
+      "2026-05-14",
+      "2026-05-15",
+      "2026-05-16",
+      "2026-05-17",
+      "2026-05-23",
+      "2026-05-24"
+    ],
+    "excluded_weekdays_absent_in_one_period": [],
+    "exam_excluded": true
+  },
+  "treatment": {
+    "n_persons": 23,
+    "pre_mean_focused_minutes": 59.136,
+    "post_mean_focused_minutes": 58.392,
+    "within_change": -0.744,
+    "pre_window_reading_minutes": 0.0,
+    "post_window_reading_minutes": 0.0,
+    "window_change": 0.0
+  },
+  "comparison": {
+    "n_persons": 113,
+    "pre_mean_focused_minutes": 57.444,
+    "post_mean_focused_minutes": 57.374,
+    "within_change": -0.07
+  },
+  "did": {
+    "minutes_per_day": -0.674,
+    "cluster_robust_se": 1.044082,
+    "attribution": "not_observed_in_window：窗口内无阅读，差异不能归因于释放时段"
+  },
+  "planned_release_minutes": 30.0,
+  "attribution_guard": "计划释放分钟仅为方案声明；只有窗口内实际阅读变化可计入观测证据，且 DiD 在平行趋势等假设成立时才可谨慎归因",
+  "materials_digest": "a326b6cb07c14f33d0f251f6d0f92f8344b1f965ecb6c059900b29f99b2a6307",
+  "pilot_id": "PIL1"
+}

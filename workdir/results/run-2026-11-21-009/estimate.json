@@ -1,0 +1,764 @@
+{
+  "scope": {
+    "estimable_persons": 136,
+    "frame_persons": 144,
+    "representability": {
+      "unsupported_strata": [],
+      "thin_strata": [],
+      "unsupported_boarder_groups": [],
+      "note": "unsupported_strata 中的层没有任何有效回收，该层不进入群体估计，也不以零值或大权重替代"
+    },
+    "concentration": {
+      "max_weight": 3.4,
+      "min_weight": 1.2,
+      "max_to_min_ratio": 2.833333,
+      "effective_sample_size": 125.556,
+      "design_effect": 1.083182,
+      "extreme_flag": false
+    },
+    "trimming": {
+      "applied": false,
+      "cap_ratio": 10.0,
+      "records": []
+    },
+    "strata": {
+      "C1-4": {
+        "frame_persons": 12,
+        "valid_respondents": 11,
+        "base_weight_total": 24.6,
+        "respondent_base_weight_total": 23.1,
+        "nonresponse_adjustment_factor": 1.064935,
+        "response_rate_persons": 0.916667
+      },
+      "C1-6": {
+        "frame_persons": 12,
+        "valid_respondents": 12,
+        "base_weight_total": 25.2,
+        "respondent_base_weight_total": 25.2,
+        "nonresponse_adjustment_factor": 1.0,
+        "response_rate_persons": 1.0
+      },
+      "C2-3": {
+        "frame_persons": 12,
+        "valid_respondents": 11,
+        "base_weight_total": 24.6,
+        "respondent_base_weight_total": 21.9,
+        "nonresponse_adjustment_factor": 1.123288,
+        "response_rate_persons": 0.916667
+      },
+      "C2-5": {
+        "frame_persons": 12,
+        "valid_respondents": 12,
+        "base_weight_total": 24.0,
+        "respondent_base_weight_total": 24.0,
+        "nonresponse_adjustment_factor": 1.0,
+        "response_rate_persons": 1.0
+      },
+      "C3-4": {
+        "frame_persons": 12,
+        "valid_respondents": 12,
+        "base_weight_total": 24.0,
+        "respondent_base_weight_total": 24.0,
+        "nonresponse_adjustment_factor": 1.0,
+        "response_rate_persons": 1.0
+      },
+      "C3-6": {
+        "frame_persons": 12,
+        "valid_respondents": 11,
+        "base_weight_total": 25.5,
+        "respondent_base_weight_total": 23.7,
+        "nonresponse_adjustment_factor": 1.075949,
+        "response_rate_persons": 0.916667
+      },
+      "C4-3": {
+        "frame_persons": 12,
+        "valid_respondents": 11,
+        "base_weight_total": 24.9,
+        "respondent_base_weight_total": 22.8,
+        "nonresponse_adjustment_factor": 1.092105,
+        "response_rate_persons": 0.916667
+      },
+      "C4-5": {
+        "frame_persons": 12,
+        "valid_respondents": 11,
+        "base_weight_total": 25.5,
+        "respondent_base_weight_total": 22.5,
+        "nonresponse_adjustment_factor": 1.133333,
+        "response_rate_persons": 0.916667
+      },
+      "C5-4": {
+        "frame_persons": 12,
+        "valid_respondents": 11,
+        "base_weight_total": 26.4,
+        "respondent_base_weight_total": 24.3,
+        "nonresponse_adjustment_factor": 1.08642,
+        "response_rate_persons": 0.916667
+      },
+      "C5-6": {
+        "frame_persons": 12,
+        "valid_respondents": 11,
+        "base_weight_total": 24.9,
+        "respondent_base_weight_total": 23.7,
+        "nonresponse_adjustment_factor": 1.050633,
+        "response_rate_persons": 0.916667
+      },
+      "C6-3": {
+        "frame_persons": 12,
+        "valid_respondents": 12,
+        "base_weight_total": 26.4,
+        "respondent_base_weight_total": 26.4,
+        "nonresponse_adjustment_factor": 1.0,
+        "response_rate_persons": 1.0
+      },
+      "C6-5": {
+        "frame_persons": 12,
+        "valid_respondents": 11,
+        "base_weight_total": 25.8,
+        "respondent_base_weight_total": 23.4,
+        "nonresponse_adjustment_factor": 1.102564,
+        "response_rate_persons": 0.916667
+      }
+    },
+    "nonresponse": [
+      {
+        "person_id": "P085",
+        "stratum": "C1-4",
+        "boarder": false,
+        "reason": "no_diary"
+      },
+      {
+        "person_id": "P068",
+        "stratum": "C2-3",
+        "boarder": false,
+        "reason": "no_diary"
+      },
+      {
+        "person_id": "P051",
+        "stratum": "C3-6",
+        "boarder": true,
+        "reason": "no_diary"
+      },
+      {
+        "person_id": "P136",
+        "stratum": "C4-3",
+        "boarder": false,
+        "reason": "no_diary"
+      },
+      {
+        "person_id": "P034",
+        "stratum": "C4-5",
+        "boarder": false,
+        "reason": "no_diary"
+      },
+      {
+        "person_id": "P017",
+        "stratum": "C5-4",
+        "boarder": false,
+        "reason": "no_diary"
+      },
+      {
+        "person_id": "P119",
+        "stratum": "C5-6",
+        "boarder": false,
+        "reason": "no_diary"
+      },
+      {
+        "person_id": "P102",
+        "stratum": "C6-5",
+        "boarder": true,
+        "reason": "no_diary"
+      }
+    ]
+  },
+  "overall": {
+    "estimable": true,
+    "n_persons": 136,
+    "weight_sum": 301.8,
+    "effective_sample_size": 125.556,
+    "focused_reading": {
+      "mean_daily_minutes": 57.679,
+      "median_daily_minutes": 57.857,
+      "p25": 55.714,
+      "p75": 60.0,
+      "se_mean": 0.204794,
+      "se_detail": {
+        "se": 0.204794,
+        "clusters": 72,
+        "note": "家庭聚类稳健标准误（线性化）"
+      }
+    },
+    "audio_secondary": {
+      "mean_daily_minutes": 15.0,
+      "credit_ratio_used": 1.0
+    },
+    "combined_reading_with_credit": {
+      "mean_daily_minutes": 72.679
+    },
+    "zero_reading_day_rate": 0.038878,
+    "bounds_due_to_unknown": {
+      "lower_mean_daily_minutes": 57.679,
+      "upper_if_all_unknown_is_reading": 125.09,
+      "upper_also_counting_disputed": 125.09,
+      "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+    },
+    "mean_unknown_minutes_daily": 67.411,
+    "mean_disputed_minutes_daily": 0.0
+  },
+  "domains": {
+    "grade": {
+      "3": {
+        "estimable": true,
+        "n_persons": 34,
+        "weight_sum": 75.9,
+        "effective_sample_size": 31.416,
+        "focused_reading": {
+          "mean_daily_minutes": 57.525,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 60.0,
+          "se_mean": 0.408451,
+          "se_detail": {
+            "se": 0.408451,
+            "clusters": 34,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.525
+        },
+        "zero_reading_day_rate": 0.041248,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.525,
+          "upper_if_all_unknown_is_reading": 121.462,
+          "upper_also_counting_disputed": 121.462,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 63.937,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "4": {
+        "estimable": true,
+        "n_persons": 34,
+        "weight_sum": 75.0,
+        "effective_sample_size": 31.246,
+        "focused_reading": {
+          "mean_daily_minutes": 57.918,
+          "median_daily_minutes": 57.857,
+          "p25": 56.277,
+          "p75": 59.776,
+          "se_mean": 0.317485,
+          "se_detail": {
+            "se": 0.317485,
+            "clusters": 34,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.918
+        },
+        "zero_reading_day_rate": 0.035466,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.918,
+          "upper_if_all_unknown_is_reading": 124.991,
+          "upper_also_counting_disputed": 124.991,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 67.073,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "5": {
+        "estimable": true,
+        "n_persons": 34,
+        "weight_sum": 75.3,
+        "effective_sample_size": 31.308,
+        "focused_reading": {
+          "mean_daily_minutes": 57.82,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 60.0,
+          "se_mean": 0.406895,
+          "se_detail": {
+            "se": 0.406895,
+            "clusters": 34,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.82
+        },
+        "zero_reading_day_rate": 0.036336,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.82,
+          "upper_if_all_unknown_is_reading": 130.959,
+          "upper_also_counting_disputed": 130.959,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 73.139,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "6": {
+        "estimable": true,
+        "n_persons": 34,
+        "weight_sum": 75.6,
+        "effective_sample_size": 31.587,
+        "focused_reading": {
+          "mean_daily_minutes": 57.455,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 60.0,
+          "se_mean": 0.440923,
+          "se_detail": {
+            "se": 0.440923,
+            "clusters": 34,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.455
+        },
+        "zero_reading_day_rate": 0.042417,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.455,
+          "upper_if_all_unknown_is_reading": 122.983,
+          "upper_also_counting_disputed": 122.983,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 65.528,
+        "mean_disputed_minutes_daily": 0.0
+      }
+    },
+    "boarder": {
+      "boarder": {
+        "estimable": true,
+        "n_persons": 46,
+        "weight_sum": 101.7,
+        "effective_sample_size": 42.449,
+        "focused_reading": {
+          "mean_daily_minutes": 57.723,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 60.0,
+          "se_mean": 0.337219,
+          "se_detail": {
+            "se": 0.337219,
+            "clusters": 46,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.723
+        },
+        "zero_reading_day_rate": 0.037948,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.723,
+          "upper_if_all_unknown_is_reading": 127.051,
+          "upper_also_counting_disputed": 127.051,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 69.328,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "day": {
+        "estimable": true,
+        "n_persons": 90,
+        "weight_sum": 200.1,
+        "effective_sample_size": 83.108,
+        "focused_reading": {
+          "mean_daily_minutes": 57.656,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 60.0,
+          "se_mean": 0.23516,
+          "se_detail": {
+            "se": 0.23516,
+            "clusters": 68,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.656
+        },
+        "zero_reading_day_rate": 0.039351,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.656,
+          "upper_if_all_unknown_is_reading": 124.093,
+          "upper_also_counting_disputed": 124.093,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 66.437,
+        "mean_disputed_minutes_daily": 0.0
+      }
+    },
+    "area": {
+      "乡村": {
+        "estimable": true,
+        "n_persons": 68,
+        "weight_sum": 150.6,
+        "effective_sample_size": 62.833,
+        "focused_reading": {
+          "mean_daily_minutes": 57.685,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 60.0,
+          "se_mean": 0.270859,
+          "se_detail": {
+            "se": 0.270859,
+            "clusters": 68,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.685
+        },
+        "zero_reading_day_rate": 0.038955,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.685,
+          "upper_if_all_unknown_is_reading": 123.983,
+          "upper_also_counting_disputed": 123.983,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 66.298,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "城区": {
+        "estimable": true,
+        "n_persons": 68,
+        "weight_sum": 151.2,
+        "effective_sample_size": 62.724,
+        "focused_reading": {
+          "mean_daily_minutes": 57.672,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 60.0,
+          "se_mean": 0.287483,
+          "se_detail": {
+            "se": 0.287483,
+            "clusters": 68,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.672
+        },
+        "zero_reading_day_rate": 0.038802,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.672,
+          "upper_if_all_unknown_is_reading": 126.192,
+          "upper_also_counting_disputed": 126.192,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 68.52,
+        "mean_disputed_minutes_daily": 0.0
+      }
+    },
+    "school": {
+      "C1": {
+        "estimable": true,
+        "n_persons": 23,
+        "weight_sum": 49.8,
+        "effective_sample_size": 21.072,
+        "focused_reading": {
+          "mean_daily_minutes": 58.293,
+          "median_daily_minutes": 57.857,
+          "p25": 57.281,
+          "p75": 60.0,
+          "se_mean": 0.36727,
+          "se_detail": {
+            "se": 0.36727,
+            "clusters": 23,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 73.293
+        },
+        "zero_reading_day_rate": 0.029598,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 58.293,
+          "upper_if_all_unknown_is_reading": 112.959,
+          "upper_also_counting_disputed": 112.959,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 54.666,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "C2": {
+        "estimable": true,
+        "n_persons": 23,
+        "weight_sum": 48.6,
+        "effective_sample_size": 21.029,
+        "focused_reading": {
+          "mean_daily_minutes": 57.163,
+          "median_daily_minutes": 57.857,
+          "p25": 54.435,
+          "p75": 60.0,
+          "se_mean": 0.586089,
+          "se_detail": {
+            "se": 0.586089,
+            "clusters": 23,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.163
+        },
+        "zero_reading_day_rate": 0.047278,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.163,
+          "upper_if_all_unknown_is_reading": 128.739,
+          "upper_also_counting_disputed": 128.739,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 71.575,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "C3": {
+        "estimable": true,
+        "n_persons": 23,
+        "weight_sum": 49.5,
+        "effective_sample_size": 21.219,
+        "focused_reading": {
+          "mean_daily_minutes": 57.241,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 57.857,
+          "se_mean": 0.482103,
+          "se_detail": {
+            "se": 0.482103,
+            "clusters": 23,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.241
+        },
+        "zero_reading_day_rate": 0.045981,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.241,
+          "upper_if_all_unknown_is_reading": 122.565,
+          "upper_also_counting_disputed": 122.565,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 65.324,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "C4": {
+        "estimable": true,
+        "n_persons": 22,
+        "weight_sum": 50.4,
+        "effective_sample_size": 20.49,
+        "focused_reading": {
+          "mean_daily_minutes": 57.636,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 59.383,
+          "se_mean": 0.429456,
+          "se_detail": {
+            "se": 0.429456,
+            "clusters": 22,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.636
+        },
+        "zero_reading_day_rate": 0.039403,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.636,
+          "upper_if_all_unknown_is_reading": 118.44,
+          "upper_also_counting_disputed": 118.44,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 60.804,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "C5": {
+        "estimable": true,
+        "n_persons": 22,
+        "weight_sum": 51.3,
+        "effective_sample_size": 20.593,
+        "focused_reading": {
+          "mean_daily_minutes": 57.524,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 59.951,
+          "se_mean": 0.531776,
+          "se_detail": {
+            "se": 0.531776,
+            "clusters": 22,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.524
+        },
+        "zero_reading_day_rate": 0.04126,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.524,
+          "upper_if_all_unknown_is_reading": 136.053,
+          "upper_also_counting_disputed": 136.053,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 78.528,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "C6": {
+        "estimable": true,
+        "n_persons": 23,
+        "weight_sum": 52.2,
+        "effective_sample_size": 21.257,
+        "focused_reading": {
+          "mean_daily_minutes": 58.18,
+          "median_daily_minutes": 57.906,
+          "p25": 55.714,
+          "p75": 60.0,
+          "se_mean": 0.462384,
+          "se_detail": {
+            "se": 0.462384,
+            "clusters": 23,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 73.18
+        },
+        "zero_reading_day_rate": 0.03033,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 58.18,
+          "upper_if_all_unknown_is_reading": 131.305,
+          "upper_also_counting_disputed": 131.305,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 73.125,
+        "mean_disputed_minutes_daily": 0.0
+      }
+    },
+    "access_need": {
+      "audio": {
+        "estimable": true,
+        "n_persons": 11,
+        "weight_sum": 26.576,
+        "effective_sample_size": 10.335,
+        "focused_reading": {
+          "mean_daily_minutes": 56.264,
+          "median_daily_minutes": 55.714,
+          "p25": 53.571,
+          "p75": 57.857,
+          "se_mean": 0.89477,
+          "se_detail": {
+            "se": 0.89477,
+            "clusters": 11,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 71.264
+        },
+        "zero_reading_day_rate": 0.062258,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 56.264,
+          "upper_if_all_unknown_is_reading": 131.833,
+          "upper_also_counting_disputed": 131.833,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 75.569,
+        "mean_disputed_minutes_daily": 0.0
+      },
+      "text": {
+        "estimable": true,
+        "n_persons": 125,
+        "weight_sum": 275.224,
+        "effective_sample_size": 115.276,
+        "focused_reading": {
+          "mean_daily_minutes": 57.815,
+          "median_daily_minutes": 57.857,
+          "p25": 55.714,
+          "p75": 60.0,
+          "se_mean": 0.215373,
+          "se_detail": {
+            "se": 0.215373,
+            "clusters": 71,
+            "note": "家庭聚类稳健标准误（线性化）"
+          }
+        },
+        "audio_secondary": {
+          "mean_daily_minutes": 15.0,
+          "credit_ratio_used": 1.0
+        },
+        "combined_reading_with_credit": {
+          "mean_daily_minutes": 72.815
+        },
+        "zero_reading_day_rate": 0.036621,
+        "bounds_due_to_unknown": {
+          "lower_mean_daily_minutes": 57.815,
+          "upper_if_all_unknown_is_reading": 124.438,
+          "upper_also_counting_disputed": 124.438,
+          "interpretation": "未记录与争议分钟不猜成零；区间宽度即不可消除的无知"
+        },
+        "mean_unknown_minutes_daily": 66.623,
+        "mean_disputed_minutes_daily": 0.0
+      }
+    }
+  },
+  "materials_digest": "a326b6cb07c14f33d0f251f6d0f92f8344b1f965ecb6c059900b29f99b2a6307"
+}

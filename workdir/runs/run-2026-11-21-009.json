@@ -1,0 +1,19 @@
+{
+  "run_id": "run-2026-11-21-009",
+  "command": "estimate",
+  "params": {
+    "materials": "/workspace/materials",
+    "workdir": "/workspace/workdir",
+    "json": true,
+    "min_valid_days": 7,
+    "min_coverage_ratio": 0.9,
+    "command": "estimate",
+    "audio_credit": 1.0,
+    "max_weight_ratio": 10.0,
+    "trim_weights": false
+  },
+  "materials_digest": "a326b6cb07c14f33d0f251f6d0f92f8344b1f965ecb6c059900b29f99b2a6307",
+  "result_ref": "(pending)",
+  "notes": "",
+  "recorded_on": "2026-11-21"
+}
